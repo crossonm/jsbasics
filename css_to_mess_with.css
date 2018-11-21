@@ -2333,14 +2333,14 @@
   }
   
   .btn-primary {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    color: #000000;
+    background-color: #00ff80;
+    border-color: #e100ff;
   }
   
   .btn-primary:hover {
     color: rgb(255, 255, 255);
-    background-color: #0069d9;
+    background-color: #e100ff;
     border-color: #0062cc;
   }
   
